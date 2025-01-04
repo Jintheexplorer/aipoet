@@ -1,5 +1,5 @@
-langchain
-langchain_community
-os
-openai
-streamlit
+streamlit==1.25.0  # Replace with the latest tested version
+python-dotenv==1.0.0  # Replace with the latest tested version
+langchain==0.1.0  # Replace with the version compatible with your code
+langchain-community==0.1.0  # Replace with the version you installed
+openai==0.27.10  # For OpenAI API interaction
